@@ -19,7 +19,7 @@ CSS3
 
 How to View
 
-You can access the portfolio website here (insert the link to your GitHub Pages or the live website).
+You can access the portfolio website  https://aakashrak.github.io/simple-portfolio-website/
 
 
 
